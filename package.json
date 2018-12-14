@@ -6,18 +6,17 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": [
-        "log",
-        "nodejs"
-        "microsoft",
-        "teams",
-        "log4js",
-        "log4js-node"
-    ],
     "repository": {
         "type": "git",
         "url": "git+https://github.com/ethanttbui/log4js-node-microsoft-teams.git"
     },
+    "keywords": [
+        "log",
+        "nodejs",
+        "microsoft",
+        "teams",
+        "log4js"
+    ],
     "author": "Ethan Bui <ethanttbui@gmail.com>",
     "license": "ISC",
     "bugs": {
