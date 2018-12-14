@@ -1,6 +1,6 @@
 {
     "name": "log4js-node-microsoft-teams",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "This package provides an appender that allows log4js-node to send logs to Microsoft Teams",
     "main": "index.js",
     "scripts": {
