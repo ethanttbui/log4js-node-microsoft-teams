@@ -1,5 +1,5 @@
 {
-  "name": "@log4js-node/microsoft-teams",
+  "name": "log4js-node-microsoft-teams",
   "version": "1.0.0",
   "description": "This package provides an appender that allows log4js-node to send logs to Microsoft Teams",
   "main": "index.js",
