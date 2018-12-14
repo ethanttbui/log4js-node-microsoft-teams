@@ -1,0 +1,19 @@
+{
+  "name": "@log4js-node/microsoft-teams",
+  "version": "1.0.0",
+  "description": "This package provides an appender that allows log4js-node to send logs to Microsoft Teams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanttbui/log4js-node-microsoft-teams.git"
+  },
+  "author": "Ethan Bui <ethanttbui@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethanttbui/log4js-node-microsoft-teams/issues"
+  },
+  "homepage": "https://github.com/ethanttbui/log4js-node-microsoft-teams#readme"
+}
